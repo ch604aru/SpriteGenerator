@@ -1,0 +1,6 @@
+C:\Projects\Tools\SpriteGenerator\SpriteGenerator\bin\Debug\SpriteGenerator.exe.config
+C:\Projects\Tools\SpriteGenerator\SpriteGenerator\bin\Debug\SpriteGenerator.exe
+C:\Projects\Tools\SpriteGenerator\SpriteGenerator\bin\Debug\SpriteGenerator.pdb
+C:\Projects\Tools\SpriteGenerator\SpriteGenerator\obj\Debug\SpriteGenerator.csprojResolveAssemblyReference.cache
+C:\Projects\Tools\SpriteGenerator\SpriteGenerator\obj\Debug\SpriteGenerator.exe
+C:\Projects\Tools\SpriteGenerator\SpriteGenerator\obj\Debug\SpriteGenerator.pdb
